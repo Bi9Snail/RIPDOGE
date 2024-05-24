@@ -1,0 +1,10 @@
+{
+  "name": "RIP DOGE",
+  "symbol": "RIPDOGE",
+  "description": "Kabosu the Shiba dog of Dogecoin, we will forever remember your laughter and love. Rest In Peace.",
+  "extensions": {
+    "website": "https://kabochan.blog.jp/",
+    "twitter": "https://x.com/kabosumama"
+  },
+  "image": "https://raw.githubusercontent.com/Bi9Snail/RIPDOGE/main/RIP_DOGE_logo.png"
+}
